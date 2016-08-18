@@ -1,0 +1,8 @@
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\obj\Debug\Exercise4.Properties.Resources.resources
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.GenerateResource.Cache
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\dr8\Downloads\Exercise4_4\Exercise4\Exercise4\obj\Debug\Exercise4.pdb

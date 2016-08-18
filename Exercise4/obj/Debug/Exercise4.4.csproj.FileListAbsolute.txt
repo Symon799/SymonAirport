@@ -1,0 +1,3 @@
+C:\Users\dr8\Downloads\Exercise4_5\Exercise4.5\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\dr8\Downloads\Exercise4_5\Exercise4.5\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\dr8\Downloads\Exercise4_5\Exercise4.5\Exercise4\obj\Debug\Exercise4.pdb
